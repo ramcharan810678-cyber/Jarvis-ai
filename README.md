@@ -1,1 +1,2 @@
 Jarvis
+# Firebase AI Logic uses App Check attestation (no client-side GEMINI_API_KEY required).
