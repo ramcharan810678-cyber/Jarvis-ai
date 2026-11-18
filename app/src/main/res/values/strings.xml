@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="jarvis_full_name">J.A.R.V.I.S.</string>
+    <string name="jarvis_subtitle">JUST A RATHER VERY INTELLIGENT SYSTEM</string>
+    <string name="status_idle">IDLE</string>
+    <string name="status_recording">Listening...</string>
+    <string name="status_transcribing">Transcribing...</string>
+    <string name="status_processing">Thinking...</string>
+    <string name="status_thinking">Thinking...</string>
+    <string name="status_speaking">Speaking...</string>
+    <string name="status_error">SYSTEM ALERT</string>
+    <string name="input_placeholder">Enter command or tap mic to record…</string>
+    <string name="cd_send_command">Send command to JARVIS</string>
+    <string name="cd_start_recording">Start Recording</string>
+    <string name="cd_stop_recording">Stop Recording</string>
+    <string name="action_start_recording">Start Recording</string>
+    <string name="action_stop_recording">Stop Recording</string>
+    <string name="cd_toggle_tts">Toggle voice response</string>
+    <string name="cd_stop_speaking">Stop JARVIS voice playback</string>
+    <string name="cd_clear_session">Clear conversation history</string>
+    <string name="cd_open_diagnostics">Open core diagnostics and model selector</string>
+    <string name="cd_replay_voice">Read this response aloud</string>
+    <string name="cd_hologram_core">JARVIS holographic arc reactor core</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_dismiss">Dismiss</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_preview_audio">Preview</string>
+    <string name="action_stop_preview">Stop</string>
+    <string name="action_send_audio">Transcribe</string>
+    <string name="cd_discard_audio">Discard recorded audio clip</string>
+    <string name="action_open_diagnostics">Diagnostics</string>
+    <string name="cd_developer_diagnostics">Open developer audio pipeline diagnostics</string>
+    <string name="diagnostics_title">CORE TELEMETRY &amp; MODEL</string>
+    <string name="diagnostics_subtitle">Firebase AI Logic + App Check Attestation</string>
+    <string name="dev_diagnostics_title">AUDIO PIPELINE DIAGNOSTICS</string>
+</resources>
